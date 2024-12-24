@@ -1,0 +1,155 @@
+[33mcommit 0667f459efb92ece0c3e96da3e94dae764628ae9[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: shashwatikulkarni <136837540+shashwatikulkarni@users.noreply.github.com>
+Date:   Tue Dec 31 06:41:42 2024 +0530
+
+    Update README.md
+
+[33mcommit 1594613afb488db67f9998bc9ab8238804c40508[m
+Author: JL978 <60377574+JL978@users.noreply.github.com>
+Date:   Wed Jan 13 11:52:07 2021 -0500
+
+    Update README.md
+
+[33mcommit dbd9c65321aa2cdc78ae4997b983f95c29383693[m
+Author: Jimmy Lam <JimmyLam978@gmail.com>
+Date:   Wed Jan 13 11:49:31 2021 -0500
+
+    updated readme with architecture explaination and update packages
+
+[33mcommit e988035056a315b4c1cfa04217694448f2f095ba[m
+Author: Jimmy Lam <JimmyLam978@gmail.com>
+Date:   Fri Aug 21 13:49:34 2020 -0400
+
+    update readme
+
+[33mcommit 6ff18dec70c989678da5d1c0142c8ba1236b6547[m
+Author: JL978 <60377574+JL978@users.noreply.github.com>
+Date:   Fri Aug 21 12:59:35 2020 -0400
+
+    Update README.md
+
+[33mcommit 42d2736c240b2a28b9c2c9dec8456e84083c7d89[m
+Author: Jimmy Lam <JimmyLam978@gmail.com>
+Date:   Thu Aug 20 21:10:47 2020 -0400
+
+    removed cookies message
+
+[33mcommit 89f77397fe9c62d6be1d00ea6cadf490310f619e[m
+Author: Jimmy Lam <JimmyLam978@gmail.com>
+Date:   Thu Aug 20 21:08:00 2020 -0400
+
+    cookie message
+
+[33mcommit d14546517f160999d2d3a022158d7273728231f5[m
+Author: Jimmy Lam <JimmyLam978@gmail.com>
+Date:   Thu Aug 20 16:59:38 2020 -0400
+
+    ss update
+
+[33mcommit e261183ffc500d05e5b517c3bdcd8fa80f4a6c41[m
+Author: Jimmy Lam <JimmyLam978@gmail.com>
+Date:   Thu Aug 20 16:50:17 2020 -0400
+
+    ss
+
+[33mcommit 01f5975c9d9b7b6c079070c538605516ecb43d60[m
+Author: Jimmy Lam <JimmyLam978@gmail.com>
+Date:   Thu Aug 20 16:41:33 2020 -0400
+
+    empty cookieOption
+
+[33mcommit f138d5e6e823fe9d1aa6b00e903eb67ae50dba4c[m
+Author: Jimmy Lam <JimmyLam978@gmail.com>
+Date:   Thu Aug 20 15:42:03 2020 -0400
+
+    ss none
+
+[33mcommit 37b4073c26b89156e05efc9101031dfc2b904ed2[m
+Author: Jimmy Lam <JimmyLam978@gmail.com>
+Date:   Thu Aug 20 15:39:57 2020 -0400
+
+    ss
+
+[33mcommit fc6b0f30468fdd7a90a7dcf5f6cc7a915dbc2b39[m
+Author: Jimmy Lam <JimmyLam978@gmail.com>
+Date:   Thu Aug 20 15:33:43 2020 -0400
+
+    added domain in cookie option
+
+[33mcommit b03f00978147fe678565e47d7ee3e35915aa0c66[m
+Author: Jimmy Lam <JimmyLam978@gmail.com>
+Date:   Thu Aug 20 15:20:05 2020 -0400
+
+    secure
+
+[33mcommit 7d5e443b4925d62fb4fcd64307c7a89b45009f9c[m
+Author: Jimmy Lam <JimmyLam978@gmail.com>
+Date:   Thu Aug 20 14:15:31 2020 -0400
+
+    clear cookie options
+
+[33mcommit 1bdd8876ea3d02cbc5d8301846473cbd12028f97[m
+Author: Jimmy Lam <JimmyLam978@gmail.com>
+Date:   Thu Aug 20 14:10:34 2020 -0400
+
+    ss false
+
+[33mcommit 1569704f5248af5b68b626485df487b798cf2fcd[m
+Author: Jimmy Lam <JimmyLam978@gmail.com>
+Date:   Thu Aug 20 13:32:09 2020 -0400
+
+    httponly false
+
+[33mcommit a2bd99719efd37c9f3e46827cb898dbf802ed7a5[m
+Author: Jimmy Lam <JimmyLam978@gmail.com>
+Date:   Thu Aug 20 13:27:40 2020 -0400
+
+    fixed ss
+
+[33mcommit 895ea147f5692c6487df3516fac8de291bba1df8[m
+Author: Jimmy Lam <JimmyLam978@gmail.com>
+Date:   Thu Aug 20 13:23:54 2020 -0400
+
+    same site
+
+[33mcommit 756ed58f3c95721d964988cb6bafb1393309892b[m
+Author: Jimmy Lam <JimmyLam978@gmail.com>
+Date:   Thu Aug 20 13:20:06 2020 -0400
+
+    sent cookie config
+
+[33mcommit 1482d1cc525d3223a3f39c3b873df74806e9569d[m
+Author: Jimmy Lam <JimmyLam978@gmail.com>
+Date:   Thu Aug 20 12:06:20 2020 -0400
+
+    modified cookie
+
+[33mcommit 6c190ba60e487f28904d5e1ad2532c2e9ddad7f3[m
+Author: Jimmy Lam <JimmyLam978@gmail.com>
+Date:   Thu Aug 20 11:38:11 2020 -0400
+
+    a change
+
+[33mcommit d81d9a4c8dfc93db88fb6083128a510cf9f059ef[m
+Author: Jimmy Lam <JimmyLam978@gmail.com>
+Date:   Thu Aug 20 11:37:01 2020 -0400
+
+    changed cors origin
+
+[33mcommit 2e9889e0880bcc967633b9ef4510980a939be80f[m
+Author: Jimmy Lam <JimmyLam978@gmail.com>
+Date:   Wed Aug 19 17:00:13 2020 -0400
+
+    fixed issue with client-auth
+
+[33mcommit 6c5adf7d5bce3c1c12646d9b1de1585c34a8c7b0[m
+Author: Jimmy Lam <JimmyLam978@gmail.com>
+Date:   Wed Aug 19 16:30:15 2020 -0400
+
+    update readme
+
+[33mcommit e26b03a7ac523be2a3abeebe0bb06fd146d4b823[m
+Author: Jimmy Lam <JimmyLam978@gmail.com>
+Date:   Wed Aug 19 16:26:16 2020 -0400
+
+    transfer files and configure environment
